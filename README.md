@@ -1,5 +1,5 @@
 # 🖤 About Me:
-✔ I’m currently working on Roblox Scripts<br>✔ I’m currently learning Lua, Nodejs and Python
+✔ I’m currently learning Lua, Nodejs and Python<br>
 
 
 ## 🌐 Socials:
