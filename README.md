@@ -35,8 +35,6 @@
 
 ###
 
-<img align="right" height="180" src="https://cdn.discordapp.com/avatars/533245053515071488/ea98e2efa5f2b4b9178463d2bddfe654?size=1024"  />
-
 ###
 
 <div align="left">
