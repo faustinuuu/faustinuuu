@@ -1,52 +1,79 @@
-<h2 align="left">Hi! My name is Faustino!</h2>
+# 📟 Welcome to faustinuuu.sys
 
-###
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  FAUSTINUUU BIOS v1.0.0 (C) 2026 - Advanced Developer System                     ║
+║  CPU: Intel Core i9 @ 5.00GHz | RAM: 64,536 KB | SYSTEM STATE: OPERATIONAL       ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faustinuuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faustinuuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+C:\> _
+```
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-</div>
+## 💾 C:\> DIR /W /S
 
-###
+```
+ Volume in drive C is FAUSTINUUU
+ Volume Serial Number is 1337-CODE
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+ Directory of C:\PROJECTS
 
-###
+ .                  <DIR>       07-21-2026  11:15p
+ ..                 <DIR>       07-21-2026  11:15p
+ SPOTIFY_DOS   EXE    135,744 B  07-21-2026  11:15p  Spotify Client in MS-DOS Style
+ PORTFOLIO     HTM      5,120 B  07-21-2026  10:30p  Personal ASCII Web presence
+ GAME_ENG      CPP     84,200 B  07-15-2026  09:12a  Retro 2D rendering engine
+        3 File(s)        225,064 bytes
 
-###
+ Directory of C:\SKILLS
 
-<div align="left">
-  <a href="https://www.youtube.com/@faustino1103" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/joaosantos1103/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="533245053515071488" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+ .                  <DIR>       07-21-2026  11:15p
+ ..                 <DIR>       07-21-2026  11:15p
+ JAVASCRIPT    JS      15,420 B  07-21-2026  11:15p  Node.js / Express / Jimp
+ PYTHON        PY      12,380 B  07-21-2026  11:15p  Flask / Pillow / PyWebView
+ HTML_CSS      WEB      8,910 B  07-21-2026  11:15p  Vanilla layouts & animations
+ CSHARP        CS       9,520 B  07-21-2026  11:15p  Systems / Backend Logic
+ GIT           SYS      1,024 B  07-21-2026  11:15p  Version Control & Deployment
+        5 File(s)         47,254 bytes
+        4 Dir(s)   999,999,999,999 bytes free
+```
 
-###
+---
+
+## ⚙️ C:\> TYPE AUTOEXEC.BAT
+
+```bat
+@ECHO OFF
+PROMPT faustinuuu@terminal:~$ 
+
+REM --- Startup Commands ---
+SET DEVELOPER_MODE=TRUE
+SET PASSION_PROJECTS=RETRO_AESTHETICS
+
+ECHO Starting up developer profile...
+ECHO 🔋 Powering frontend modules (HTML/CSS/JS)
+ECHO 🛡️ Initializing backend logic (Python/C#)
+ECHO [SUCCESS] Systems loaded. Ready to compile!
+```
+
+---
+
+## 📬 C:\> PING CONTACT
+
+```
+Pinging faustinuuu [GitHub] with 32 bytes of data:
+Reply from https://github.com/faustinuuu: bytes=32 time=12ms TTL=64
+Reply from mailto:your-email@domain.com: bytes=32 time=15ms TTL=64
+
+Ping statistics for faustinuuu:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss)
+```
+
+> **[⌨️ Click here to send me an email](mailto:your-email@domain.com) or explore my repository files above!**
+
+---
+
+```
+C:\> SHUTDOWN /S /T 00
+```
