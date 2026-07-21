@@ -64,13 +64,11 @@ ECHO [SUCCESS] Systems loaded. Ready to compile!
 ```
 Pinging faustinuuu [GitHub] with 32 bytes of data:
 Reply from https://github.com/faustinuuu: bytes=32 time=12ms TTL=64
-Reply from mailto:your-email@domain.com: bytes=32 time=15ms TTL=64
+Reply from mailto:teste@faustino.com: bytes=32 time=15ms TTL=64
 
 Ping statistics for faustinuuu:
     Packets: Sent = 2, Received = 2, Lost = 0 (0% loss)
 ```
-
-> **[⌨️ Click here to send me an email](mailto:your-email@domain.com) or explore my repository files above!**
 
 ---
 
