@@ -1,4 +1,4 @@
-# João Faustino
+# João Faustino Santos
 
 Software developer working with JavaScript, Node.js, Python, and SQL. Focused on building web applications, clean API integration, and database management.
 
@@ -25,15 +25,15 @@ Software developer working with JavaScript, Node.js, Python, and SQL. Focused on
 
 ---
 
-### GitHub Stats
+### GitHub Overview
+
+![Repositories](https://img.shields.io/github/repositories/faustinuuu?style=flat-square&color=238636&label=Repositories)
+![Followers](https://img.shields.io/github/followers/faustinuuu?style=flat-square&color=238636&label=Followers)
+![Stars](https://img.shields.io/github/stars/faustinuuu?style=flat-square&color=238636&label=Total%20Stars)
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=faustinuuu&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustinuuu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faustinuuu&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faustinuuu&theme=2077" alt="GitHub Profile Details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faustinuuu&theme=2077" alt="Repositories per Language" />
 </p>
 
 ---
