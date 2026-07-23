@@ -1,77 +1,64 @@
-# 📟 Welcome to faustinuuu.sys
+# Hi there, I'm João Faustino 👋
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  FAUSTINUUU BIOS v1.0.0 (C) 2026 - Advanced Developer System                     ║
-║  CPU: Intel Core i9 @ 5.00GHz | RAM: 64,536 KB | SYSTEM STATE: OPERATIONAL       ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-
-C:\> _
-```
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=500&lines=Full-Stack+Developer;Building+Modern+Web+Apps;Python+%26+Node.js+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💾 C:\> DIR /W /S
+### 💫 About Me
 
-```
- Volume in drive C is FAUSTINUUU
- Volume Serial Number is 1337-CODE
-
- Directory of C:\PROJECTS
-
- .                  <DIR>       07-21-2026  11:15p
- ..                 <DIR>       07-21-2026  11:15p
- SPOTIFY_DOS   EXE    135,744 B  07-21-2026  11:15p  Spotify Client in MS-DOS Style
- PORTFOLIO     HTM      5,120 B  07-21-2026  10:30p  Personal ASCII Web presence
- GAME_ENG      CPP     84,200 B  07-15-2026  09:12a  Retro 2D rendering engine
-        3 File(s)        225,064 bytes
-
- Directory of C:\SKILLS
-
- .                  <DIR>       07-21-2026  11:15p
- ..                 <DIR>       07-21-2026  11:15p
- JAVASCRIPT    JS      15,420 B  07-21-2026  11:15p  Node.js / Express / Jimp
- PYTHON        PY      12,380 B  07-21-2026  11:15p  Flask / Pillow / PyWebView
- HTML_CSS      WEB      8,910 B  07-21-2026  11:15p  Vanilla layouts & animations
- CSHARP        CS       9,520 B  07-21-2026  11:15p  Systems / Backend Logic
- GIT           SYS      1,024 B  07-21-2026  11:15p  Version Control & Deployment
-        5 File(s)         47,254 bytes
-        4 Dir(s)   999,999,999,999 bytes free
-```
+- 🔭 I’m currently working on building **scalable web applications** and **interactive user experiences**.
+- 🌱 I’m constantly sharpening my skills in **Full-Stack Development** and **Database Architecture**.
+- ⚡ Fun fact: I love crafting clean code, optimizing performance, and automating dev workflows!
 
 ---
 
-## ⚙️ C:\> TYPE AUTOEXEC.BAT
+### 🛠️ Tech Stack & Tools
 
-```bat
-@ECHO OFF
-PROMPT faustinuuu@terminal:~$ 
+#### **Languages & Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-REM --- Startup Commands ---
-SET DEVELOPER_MODE=TRUE
-SET PASSION_PROJECTS=RETRO_AESTHETICS
+#### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-ECHO Starting up developer profile...
-ECHO 🔋 Powering frontend modules (HTML/CSS/JS)
-ECHO 🛡️ Initializing backend logic (Python/C#)
-ECHO [SUCCESS] Systems loaded. Ready to compile!
-```
-
----
-
-## 📬 C:\> PING CONTACT
-
-```
-Pinging faustinuuu [GitHub] with 32 bytes of data:
-Reply from https://github.com/faustinuuu: bytes=32 time=12ms TTL=64
-Reply from mailto:teste@faustino.com: bytes=32 time=15ms TTL=64
-
-Ping statistics for faustinuuu:
-    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss)
-```
+#### **Version Control & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-```
-C:\> SHUTDOWN /S /T 00
-```
+### 📊 GitHub Statistics & Summary
+
+<p align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=faustinuuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustinuuu&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faustinuuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:joaofaustinosantos3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/faustinuuu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
+</p>
