@@ -39,5 +39,6 @@ Software developer working with JavaScript, Node.js, Python, and SQL. Focused on
 
 ### Contact & Links
 
-- **Email:** joaofaustinosantos3@gmail.com
+- **Email:** joaofaustinosantos33@gmail.com
 - **GitHub:** [github.com/faustinuuu](https://github.com/faustinuuu)
+- **CV:** [Faustino.cc](https://faustinuuu.github.io/portfolio/cv.html)
