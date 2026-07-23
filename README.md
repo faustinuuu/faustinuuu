@@ -1,4 +1,4 @@
-# João Faustino Santos
+# João Faustino
 
 Software developer working with JavaScript, Node.js, Python, and SQL. Focused on building web applications, clean API integration, and database management.
 
@@ -25,7 +25,20 @@ Software developer working with JavaScript, Node.js, Python, and SQL. Focused on
 
 ---
 
+### GitHub Stats
+
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=faustinuuu&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustinuuu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faustinuuu&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### Contact & Links
 
-- **Email:** joaofaustinosantos33@gmail.com
+- **Email:** joaofaustinosantos3@gmail.com
 - **GitHub:** [github.com/faustinuuu](https://github.com/faustinuuu)
