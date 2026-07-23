@@ -27,8 +27,6 @@ Software developer working with JavaScript, Node.js, Python, and SQL. Focused on
 
 ### GitHub Overview
 
-![Followers](https://img.shields.io/github/followers/faustinuuu?style=flat-square&color=238636&label=Followers)
-![Stars](https://img.shields.io/github/stars/faustinuuu?style=flat-square&color=238636&label=Total%20Stars)
 
 <p align="left">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faustinuuu&theme=2077" alt="GitHub Profile Details" />
